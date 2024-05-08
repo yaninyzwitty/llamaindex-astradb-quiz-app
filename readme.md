@@ -2,7 +2,7 @@
 
 Install the necessary dependencies by running `npm install`
 
-## Your .env file should contain (get these from [Datastax astra](https://astra.datastax.com) )
+## Your .env file should contain (get these from [Datastax astra (Vector database)](https://astra.datastax.com) )
 
     *ASTRA_DB_APPLICATION_TOKEN that begins in this format `AstraCS:...`
     *ASTRA_DB_API_ENDPOINT
